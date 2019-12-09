@@ -18,4 +18,4 @@ For questions, feel free to contact:
 Melanie Grados: mgrados@umass.edu
 Bhavya Pant: bhavyapant@umass.edu
 
-~Created by Charlie Schweik, Bhavya Pant, Melanie Grados @ University of MAssachusetts Amherst
+~Created by Charlie Schweik, Bhavya Pant, Melanie Grados @ University of Massachusetts Amherst
